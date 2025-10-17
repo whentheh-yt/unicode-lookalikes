@@ -1,3 +1,6 @@
 # unicode-lookalikes
 Every single Unicode lookalike in languages.
-$a=b$
+## Stats
+We currently have:
+•1000 lookalikes.
+•1 file across 1 folder.
